@@ -1,3 +1,4 @@
 строка для рид
 Hello git cherry-pick
 Hello squash!
+Goodbye squash!
