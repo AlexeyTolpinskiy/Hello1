@@ -1,5 +1,9 @@
 Modification
 строка для хеллоу
+<<<<<<< HEAD
 
 Hello, Git!
 Hello Git rebase
+=======
+Hello, Git!!!
+>>>>>>> Adding Feature
